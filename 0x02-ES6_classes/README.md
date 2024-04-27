@@ -3,17 +3,8 @@
 
 OOPJavaScriptES6
 
--   By Johann Kerbrat, Engineering Manager at Uber Works
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/817248fb77fb5c2cef3f.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220622T135324Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=64b2595a6ea09fca491dd0c1bba3624bb497e10ffd8a701daad68e0a81bb872a)
 
-Resources
----------
-
-**Read or watch**:
-
--   [Classes](https://alx-intranet.hbtn.io/rltoken/ke2dSL31JbpAUBW0qWE9WA "Classes")
--   [Metaprogramming](https://alx-intranet.hbtn.io/rltoken/6OgF5QGbYclp_cwATfq-0g "Metaprogramming")
 
 Learning Objectives
 -------------------
