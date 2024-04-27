@@ -3,8 +3,6 @@
 
 JavaScriptES6
 
--   By Johann Kerbrat, Engineering Manager at Uber Works
-
 ### Concepts
 
 *For this project, we expect you to look at these concepts:*
