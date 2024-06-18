@@ -1,6 +1,5 @@
 /**
- * Contains the miscellaneous route handlers.
- * @author Hambisa Adamu <https://github.com/GEDIH>
+ * Miscellaneous route.
  */
 class AppController {
   static getHomepage(request, response) {

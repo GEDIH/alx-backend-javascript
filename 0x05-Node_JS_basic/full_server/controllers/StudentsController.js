@@ -1,13 +1,10 @@
 import readDatabase from '../utils';
 
-/**
- * The list of supported majors.
- */
+
 const VALID_MAJORS = ['CS', 'SWE'];
 
 /**
- * Contains the student-related route handlers.
- * @author Hambisa Adamu <https://github.com/GEDIH>
+ * Contains route handlers.
  */
 class StudentsController {
   static getAllStudents(request, response) {
@@ -72,4 +69,3 @@ class StudentsController {
 
 export default StudentsController;
 module.exports = StudentsController;
-
